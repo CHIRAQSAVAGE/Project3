@@ -1,0 +1,257 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.form_container
+{
+    margin: auto;
+    border-style: solid;
+    border-width: 1px;
+    background-color: #F7F1D9;
+    border-color: #0000FF;
+    width: 90%;
+}
+
+
+.form_content
+{
+    margin: 5px;
+}
+
+
+
+
+
+.header1
+{
+    background-color: #0000FF;
+    color: White;
+    padding: 4px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+
+
+
+.form_input_field_input_std
+{
+    padding: 1px;
+    float: left;
+    width: 340px;
+}
+
+
+
+
+
+.form_input_field_label_std
+{
+    padding: 1px;
+    float: left;
+    width: 160px;
+    color: #4E6127;
+    margin-left: 5px;
+   /* font-weight: bold;*/
+}
+
+
+
+
+
+
+
+
+div.hr
+{
+    padding: 0px;
+    margin: 10px auto 10px auto;
+    background-color: #4E6127;
+    height: 1px;
+    width: 80%;
+    clear: both;
+}
+div.hr hr
+{
+    display: none;
+}
+
+
+
+
+
+
+
+.align_center
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.align_left
+{
+    text-align: left;
+}
+
+.align_right
+{
+    text-align: right;
+}
+
+
+.float_left
+{
+    float: left;
+
+}
+
+
+.float_right
+{
+    float: right;
+}
+
+
+
+.error_msg
+{
+    padding: 5px;
+    border: 1px solid #FF0000;
+    color: #FF0000;
+    background-color: #FFCECE;
+    display: inline-block;
+	margin-bottom:10px;
+}
+ 
+ 
+ 
+ 
+
+.info_msg
+{
+    padding: 5px;
+    border: 1px solid #009900;
+    color: #009900;
+    background-color: #C4FFC4;
+    display: inline-block;
+	margin-bottom:10px;
+}
+ 
+ 
+ 
+ 
+ 
+
+.hidden
+{
+
+/*
+display:block;
+*/
+
+
+display:none;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+.tcl_left_col, .tcl_right_col
+{
+    width: 48%;
+    float: left;
+    
+}
+
+
+.tcl_middle_col
+{
+    
+    width: 2%;
+    float:left;
+       
+}
+	
+	
+	
+	
+
+.form_input_field_first_name
+{
+
+    width: 150px;
+
+}		
+	
+
+.form_input_field_last_name
+{
+
+    width: 150px;
+
+}			
+	
+
+.form_input_field_username
+{
+
+    width: 150px;
+
+}				
+	
+
+.form_input_field_password
+{
+
+    width: 150px;
+
+}	
+	
+	
+	
+.form_input_field_subject	
+{
+
+    width: 600px;
+
+}	
+
+
+.form_input_field_message_body	
+{
+
+    width: 850px;
+	height: 500px;
+
+}	
+
+
+
+
+
+.bold
+{
+    font-weight: bold;
+}
+
+
+	
+	
+ 
+ 
